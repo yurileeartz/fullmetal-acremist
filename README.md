@@ -1,15 +1,11 @@
-# 🎮 Fullmetal Acremist
+👤
+🛸Fullmetal Acremist é uma experiência indie de suspense e mistério que acompanha a busca desesperada pelo lendário "menino do Acre" que desapareceu sem deixar vestígios. Entre em um ambiente claustrofóbico de isolamento e desconfiança, onde cada pista pode revelar uma verdade perturbadora.
 
-Bem-vindo(a) ao repositório oficial do **Fullmetal Acremist**, um jogo indie de ação e aventura desenvolvido em Python.
 
-## 📌 Sobre o Jogo
-O projeto conta a história e desafios do alquimista num ambiente dinâmico. Este repositório serve para acompanhar o código-fonte principal, documentação e prévias (trailers) do desenvolvimento.
+ Entre no papel de um curioso em um ambiente misterioso. Desvende mistério dentro de quatro paredes no quarto acremist e encontre seu paradeiro, gerencie seus recursos e enfrente os perigos da solidão e da desconfiança e cuidado para nao ser surpreendido.🗿  Um puzzle survival desenvolvido em Python/Ursina (Pygame) misterioso, irreverente e de desafio intenso. 
 
-## 🚀 Como Jogar / Instalar
-*(Em breve, instruções detalhadas de como executar o código ou o instalador oficial do jogo).*
+ 🎥 Trailer
 
-## 🎥 Trailer
-*(Podes ver uma prévia do jogo no vídeo incluído neste repositório).*
-
+https://www.youtube.com/watch?v=X4m1pEmxEI0
 ---
-Desenvolvido por [Yuri Calixto Rodrigues](https://github.com/yurileeartz).
+Desenvolvido por Yuri Lee Arts(https://github.com/yurileeartz).
