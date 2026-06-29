@@ -6,6 +6,6 @@
 
  🎥 Trailer
 
-https://www.youtube.com/watch?v=X4m1pEmxEI0
+[![Trailer do Jogo no YouTube](https://img.youtube.com/vi/X4m1pEmxEIO/0.jpg)](https://www.youtube.com/watch?v=X4m1pEmxEIO)
 ---
 Desenvolvido por Yuri Lee Arts(https://github.com/yurileeartz).
